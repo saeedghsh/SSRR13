@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../obj/libcvblob.a  CMakeFiles/cvblob.dir/cvblob.o CMakeFiles/cvblob.dir/cvlabel.o CMakeFiles/cvblob.dir/cvaux.o CMakeFiles/cvblob.dir/cvcontour.o CMakeFiles/cvblob.dir/cvtrack.o CMakeFiles/cvblob.dir/cvcolor.o
+/usr/bin/ranlib ../../../obj/libcvblob.a

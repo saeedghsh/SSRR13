@@ -1,0 +1,24 @@
+readingDataPointsFilters:
+  FixStepSamplingDataPointsFilter
+
+referenceDataPointsFilters:
+  FixStepSamplingDataPointsFilter
+
+matcher:
+  KDTreeMatcher
+
+outlierFilters:
+  MedianDistOutlierFilter
+
+errorMinimizer:
+  PointToPointErrorMinimizer
+
+transformationCheckers:
+  - CounterTransformationChecker:
+      maxIterationCount: 40
+
+inspector:
+  VTKFileInspector
+
+logger:
+  FileLogger

@@ -1,0 +1,10 @@
+#ifndef __PAIRINGMODE_H__
+#define __PAIRINGMODE_H__
+
+enum PairingMode {
+  CLOSEST_POINT,
+  CLOSEST_POINT_ALONG_NORMAL_SIMPLE,
+  CLOSEST_PLANE_SIMPLE
+};
+
+#endif // PAIRINGMODE_H

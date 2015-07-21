@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/slam6d/globals.icc
+windows.h
+-
+math.h
+-
+sys/time.h
+-
+math.h
+-
+algorithm
+-
+cmath
+-
+sstream
+-
+fstream
+-
+iostream
+-
+iomanip
+-
+stdexcept
+-
+
+/home/saesha/Desktop/SSRR13/Andreas/slam6d/src/slam6d/frames2riegl.cc
+fstream
+-
+iostream
+-
+slam6d/globals.icc
+/home/saesha/Desktop/SSRR13/Andreas/slam6d/src/slam6d/slam6d/globals.icc
+string.h
+-
+unistd.h
+-
+XGetopt.h
+/home/saesha/Desktop/SSRR13/Andreas/slam6d/src/slam6d/XGetopt.h
+

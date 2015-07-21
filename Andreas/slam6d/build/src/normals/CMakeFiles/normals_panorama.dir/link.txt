@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../obj/libnormals_panorama.a  CMakeFiles/normals_panorama.dir/normals_panorama.cc.o
+/usr/bin/ranlib ../../../obj/libnormals_panorama.a

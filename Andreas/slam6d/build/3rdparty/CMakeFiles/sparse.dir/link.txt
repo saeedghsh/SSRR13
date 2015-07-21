@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../obj/libsparse.a  CMakeFiles/sparse.dir/sparse/csparse.cc.o
+/usr/bin/ranlib ../../obj/libsparse.a

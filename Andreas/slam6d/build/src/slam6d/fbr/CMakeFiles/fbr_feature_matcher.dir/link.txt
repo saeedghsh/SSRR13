@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../obj/libfbr_feature_matcher.a  CMakeFiles/fbr_feature_matcher.dir/feature_matcher.cc.o
+/usr/bin/ranlib ../../../../obj/libfbr_feature_matcher.a

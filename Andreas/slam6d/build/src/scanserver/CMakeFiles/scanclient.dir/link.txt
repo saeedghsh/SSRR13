@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../obj/libscanclient.a  CMakeFiles/scanclient.dir/clientInterface.cc.o CMakeFiles/scanclient.dir/sharedScan.cc.o CMakeFiles/scanclient.dir/cache/cacheObject.cc.o CMakeFiles/scanclient.dir/cache/cacheDataAccess.cc.o CMakeFiles/scanclient.dir/__/slam6d/metrics.cc.o
+/usr/bin/ranlib ../../../obj/libscanclient.a

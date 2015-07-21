@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../obj/libfbr_panorama.a  CMakeFiles/fbr_panorama.dir/panorama.cc.o CMakeFiles/fbr_panorama.dir/fbr_global.cc.o
+/usr/bin/ranlib ../../../../obj/libfbr_panorama.a

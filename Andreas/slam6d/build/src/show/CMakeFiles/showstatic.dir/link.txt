@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../obj/libshowstatic.a  CMakeFiles/showstatic.dir/NurbsPath.cc.o CMakeFiles/showstatic.dir/PathGraph.cc.o CMakeFiles/showstatic.dir/vertexarray.cc.o CMakeFiles/showstatic.dir/viewcull.cc.o CMakeFiles/showstatic.dir/colormanager.cc.o CMakeFiles/showstatic.dir/compacttree.cc.o CMakeFiles/showstatic.dir/scancolormanager.cc.o CMakeFiles/showstatic.dir/display.cc.o
+/usr/bin/ranlib ../../../obj/libshowstatic.a

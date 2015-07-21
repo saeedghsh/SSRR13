@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../obj/libfbr_feature.a  CMakeFiles/fbr_feature.dir/feature.cc.o
+/usr/bin/ranlib ../../../../obj/libfbr_feature.a

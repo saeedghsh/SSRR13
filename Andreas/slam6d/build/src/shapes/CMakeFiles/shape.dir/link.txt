@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../obj/libshape.a  CMakeFiles/shape.dir/hough.cc.o CMakeFiles/shape.dir/convexplane.cc.o CMakeFiles/shape.dir/accumulator.cc.o CMakeFiles/shape.dir/hsm3d.cc.o CMakeFiles/shape.dir/ConfigFileHough.cc.o CMakeFiles/shape.dir/parascan.cc.o CMakeFiles/shape.dir/quadtree.cc.o CMakeFiles/shape.dir/geom_math.cc.o
+/usr/bin/ranlib ../../../obj/libshape.a

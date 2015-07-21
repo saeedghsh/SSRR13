@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../obj/libfbr_registration.a  CMakeFiles/fbr_registration.dir/registration.cc.o
+/usr/bin/ranlib ../../../../obj/libfbr_registration.a

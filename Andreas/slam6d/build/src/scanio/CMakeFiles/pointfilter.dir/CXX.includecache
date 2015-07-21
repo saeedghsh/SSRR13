@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/slam6d/pointfilter.h
+string
+-
+map
+-
+pointfilter.icc
+../include/slam6d/pointfilter.icc
+
+../include/slam6d/pointfilter.icc
+
+/home/saesha/Desktop/SSRR13/Andreas/slam6d/src/slam6d/pointfilter.cc
+slam6d/pointfilter.h
+/home/saesha/Desktop/SSRR13/Andreas/slam6d/src/slam6d/slam6d/pointfilter.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+cmath
+-
+

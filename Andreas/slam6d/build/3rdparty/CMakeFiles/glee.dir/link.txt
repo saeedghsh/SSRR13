@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../obj/libglee.a  CMakeFiles/glee.dir/glee/GLee.c.o
+/usr/bin/ranlib ../../obj/libglee.a

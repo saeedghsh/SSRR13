@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/saesha/Desktop/SSRR13/Andreas/slam6d/3rdparty/glee/GLee.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+GLee.h
+/home/saesha/Desktop/SSRR13/Andreas/slam6d/3rdparty/glee/GLee.h
+Carbon/Carbon.h
+-
+
+/home/saesha/Desktop/SSRR13/Andreas/slam6d/3rdparty/glee/GLee.h
+windows.h
+-
+GL/gl.h
+-
+OpenGL/gl.h
+-
+GL/gl.h
+-
+GL/glx.h
+-
+stddef.h
+-
+

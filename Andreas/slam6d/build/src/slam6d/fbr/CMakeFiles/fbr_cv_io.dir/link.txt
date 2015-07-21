@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../obj/libfbr_cv_io.a  CMakeFiles/fbr_cv_io.dir/scan_cv.cc.o
+/usr/bin/ranlib ../../../../obj/libfbr_cv_io.a
